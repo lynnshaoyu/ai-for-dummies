@@ -9,3 +9,4 @@ links to start:
 How to build AI agents that are not stupid: 
 1) Importance of metadata layer for chunking / accurate retrieval: https://www.nicolasbustamante.com/p/lessons-from-building-ai-agents-for
 2) rag vs agentic rag/search: https://developer.nvidia.com/blog/traditional-rag-vs-agentic-rag-why-ai-agents-need-dynamic-knowledge-to-get-smarter/ , https://www.glean.com/blog/agentic-rag-explained
+3) rag is dead https://www.llamaindex.ai/blog/rag-is-dead-long-live-agentic-retrieval 
